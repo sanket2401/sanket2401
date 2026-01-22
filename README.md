@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Air Sampler<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on an Industrial Air Sampler system for pharmaceutical and cleanroom applications<br> 
+👯 I’m looking to collaborate on embedded systems, IoT, and industrial automation projects<br>
+🤝 I’m looking for help with sensor calibration, data logging, and system optimisation<br>  
+🌱 I’m currently learning advanced Python, PLC integration, and blockchain for secure industrial data<br>  
+💬 Ask me about Python, SQL, industrial electronics, and automation systems<br>  
+⚡ Fun fact: I enjoy building real-world hardware projects more than simulations
+
 
 
 ## 🌐 Socials:
